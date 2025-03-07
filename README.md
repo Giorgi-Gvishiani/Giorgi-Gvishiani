@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Giorgi-Gvishiani/Giorgi-Gvishiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "first_name": "Giorgi",
+    "last_name": "Gvishiani",
+    "from_10_to_19": "Node.js Developer at Crocobet",
+    "from_19_to_10": "Just agnostic Software Engineer",
+    "age": 23,
+    "commercial_experience": "5+ years",
+    "proferrional_skills": {
+      "prog_languages": ["TypeScript", "JavaScript"],
+      "backend": ["Node.js", "Nest.js", "Fastify", "Platofmatic.js"],
+      "frontend": ["Vue.js", "Tailwind", "React"],
+      "database": ["PostgreSQL", "Redis", "AWS DynamoDB", "MongoDB", "Firestore"],
+      "test": ["jest", "cypress", "test-containers"],
+      "communication_protocols": ["WebSocket", "GraphQL", "MQTT", "RabbitMQ"],
+      "aws": ["ECS", "ECR", "Lambda", "S3 Bucket", "Amplify", "AppSync", "Cognito", "SNS", "SES", "Secrets Manager", "IAM", "CLI"],
+      "other": ["Docker", "Biome", "Vite", "Husky", "Turbo"]
+    }
+};
+```
