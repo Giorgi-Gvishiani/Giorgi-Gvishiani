@@ -16,5 +16,5 @@
       "aws": ["ECS", "ECR", "Lambda", "S3 Bucket", "Amplify", "AppSync", "Cognito", "SNS", "SES", "Secrets Manager", "IAM", "CLI"],
       "other": ["Docker", "Biome", "Vite", "Husky", "Turbo"]
     }
-};
+}
 ```
