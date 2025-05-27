@@ -2,8 +2,7 @@
 {
     "first_name": "Giorgi",
     "last_name": "Gvishiani",
-    "from_10_to_19": "Node.js Developer at Crocobet",
-    "from_19_to_10": "Just programmer",
+    "iam_role": "Node.js Developer at Crocobet",
     "age": 23,
     "commercial_experience": "5+ years",
     "proferrional_skills": {
